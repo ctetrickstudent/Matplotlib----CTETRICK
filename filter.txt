@@ -1,0 +1,6 @@
+Add four examples of how you used data filtering in this project.
+
+1. I removed all rows expect for the ones that were relevant to my argument.
+    2. I removed duplicates to make my plotting job easier.
+        3. I only listed one value total for the univariate plot.
+            4. I listed two values for the bivariate plot.

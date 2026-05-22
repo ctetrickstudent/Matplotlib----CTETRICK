@@ -1,0 +1,19 @@
+This is my cleanup.txt file!
+
+"What is the central argument here?"
+I argue that the gender of the gamer does not impact their gaming hours negatively, nor positively.
+    Gender has no correlation to the amount of hours someone spends gaming.
+
+"Why did I drop the columns / rows that I did?"
+I dropped the columns / rows that I did because I only needed two for my arguement.
+    I wouldn't want to use "student id" in the argument, because it has zero relevance to the questions i'm answering, or to my argument.
+        I wouldn't want to use "sleep hours" either, because that data is also irrelevant to my argument, and to the discussion.
+
+"How did I handle the missing data?"
+There wasn't missing data to handle, actually. The original source of the data was completely filled; no missing values.
+
+"How did I handle the inconsistent data?"
+From my examination, there wasn't very incosistent data.
+
+"Summary of data types that i adjusted, or didn't adjust at all."
+I didn't really adjust my data types because they didn't need to be adjusted-- but when i did adjust them; it was to fit into 
